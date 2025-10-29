@@ -1,0 +1,10 @@
+^E:\SCHOOL 2025-2026\LOWLEVELDEVELOPMENT\GAMEOFLIFE\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\971FA5ED0F9015F203D1B51CCD54EB7B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SE:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild" "-BE:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/imgui-populate.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

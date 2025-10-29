@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\sfml-subbuild\CMakeFiles\2a7f95f4a9ac1daff9479f3a93d2a004\sfml-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\sfml-subbuild\CMakeFiles\2a7f95f4a9ac1daff9479f3a93d2a004\sfml-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\sfml-subbuild\CMakeFiles\2a7f95f4a9ac1daff9479f3a93d2a004\sfml-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\sfml-subbuild\CMakeFiles\2a7f95f4a9ac1daff9479f3a93d2a004\sfml-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\sfml-subbuild\CMakeFiles\2a7f95f4a9ac1daff9479f3a93d2a004\sfml-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\sfml-subbuild\CMakeFiles\2a7f95f4a9ac1daff9479f3a93d2a004\sfml-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\sfml-subbuild\CMakeFiles\2a7f95f4a9ac1daff9479f3a93d2a004\sfml-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\sfml-subbuild\CMakeFiles\2a7f95f4a9ac1daff9479f3a93d2a004\sfml-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\sfml-subbuild\CMakeFiles\5959db7c8ed7ad8d75c81f4573beee7b\sfml-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\sfml-subbuild\CMakeFiles\216d71a533c122a147a1b0a1b10a42fa\sfml-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\sfml-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\sfml-subbuild\CMakeFiles\sfml-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4C440CA7-D833-3E3E-86C7-4BA908A855D3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

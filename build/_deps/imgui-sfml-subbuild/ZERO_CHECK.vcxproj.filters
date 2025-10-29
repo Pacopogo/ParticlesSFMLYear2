@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\imgui-sfml-subbuild\CMakeFiles\cbbce2d6f16b9396f8d8ae21e7bb00ca\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7F075AD3-6458-3C15-AD9E-605631068959}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

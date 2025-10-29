@@ -1,0 +1,17 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/cmake_install.cmake",
+		"E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/dependencies/cmake_install.cmake",
+		"E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/sfml-build/cmake_install.cmake",
+		"E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/sfml-build/src/SFML/cmake_install.cmake",
+		"E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/sfml-build/src/SFML/System/cmake_install.cmake",
+		"E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/sfml-build/src/SFML/Main/cmake_install.cmake",
+		"E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/sfml-build/src/SFML/Window/cmake_install.cmake",
+		"E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/sfml-build/src/SFML/Graphics/cmake_install.cmake",
+		"E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/freetype-build/cmake_install.cmake",
+		"E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-sfml-build/cmake_install.cmake",
+		"E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

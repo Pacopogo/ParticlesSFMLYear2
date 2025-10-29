@@ -1,0 +1,10 @@
+^E:\SCHOOL 2025-2026\LOWLEVELDEVELOPMENT\GAMEOFLIFE\BUILD\CMAKEFILES\0EAB6EF8688D91502A5D7562C90749FC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SE:/School 2025-2026/LowLevelDevelopment/GameOfLife" "-BE:/School 2025-2026/LowLevelDevelopment/GameOfLife/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/low-level_setup.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

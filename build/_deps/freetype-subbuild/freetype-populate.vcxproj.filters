@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\freetype-subbuild\CMakeFiles\6a90170e849f7d75c5b5949638e42105\freetype-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\freetype-subbuild\CMakeFiles\6a90170e849f7d75c5b5949638e42105\freetype-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\freetype-subbuild\CMakeFiles\6a90170e849f7d75c5b5949638e42105\freetype-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\freetype-subbuild\CMakeFiles\6a90170e849f7d75c5b5949638e42105\freetype-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\freetype-subbuild\CMakeFiles\6a90170e849f7d75c5b5949638e42105\freetype-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\freetype-subbuild\CMakeFiles\6a90170e849f7d75c5b5949638e42105\freetype-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\freetype-subbuild\CMakeFiles\6a90170e849f7d75c5b5949638e42105\freetype-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\freetype-subbuild\CMakeFiles\6a90170e849f7d75c5b5949638e42105\freetype-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\freetype-subbuild\CMakeFiles\33c1f19082f7d39612a11e13b21b3f49\freetype-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\freetype-subbuild\CMakeFiles\6b5c8551905ff51b375076b5c9cfe520\freetype-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\freetype-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\freetype-subbuild\CMakeFiles\freetype-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D386833E-BED9-3884-8D36-D963B550F345}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

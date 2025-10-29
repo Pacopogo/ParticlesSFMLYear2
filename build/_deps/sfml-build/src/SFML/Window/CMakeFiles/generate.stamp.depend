@@ -1,0 +1,8 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/WriteBasicConfigVersionFile.cmake
+E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/sfml-src/src/SFML/Window/CMakeLists.txt
+E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/sfml-src/src/SFML/Window/Dependencies.cmake.in

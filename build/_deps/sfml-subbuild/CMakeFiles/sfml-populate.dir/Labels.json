@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/sfml-subbuild/CMakeFiles/216d71a533c122a147a1b0a1b10a42fa/sfml-populate.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/sfml-subbuild/CMakeFiles/5959db7c8ed7ad8d75c81f4573beee7b/sfml-populate-complete.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/sfml-subbuild/CMakeFiles/2a7f95f4a9ac1daff9479f3a93d2a004/sfml-populate-build.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/sfml-subbuild/CMakeFiles/2a7f95f4a9ac1daff9479f3a93d2a004/sfml-populate-configure.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/sfml-subbuild/CMakeFiles/2a7f95f4a9ac1daff9479f3a93d2a004/sfml-populate-download.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/sfml-subbuild/CMakeFiles/2a7f95f4a9ac1daff9479f3a93d2a004/sfml-populate-install.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/sfml-subbuild/CMakeFiles/2a7f95f4a9ac1daff9479f3a93d2a004/sfml-populate-mkdir.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/sfml-subbuild/CMakeFiles/2a7f95f4a9ac1daff9479f3a93d2a004/sfml-populate-patch.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/sfml-subbuild/CMakeFiles/2a7f95f4a9ac1daff9479f3a93d2a004/sfml-populate-test.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/sfml-subbuild/CMakeFiles/2a7f95f4a9ac1daff9479f3a93d2a004/sfml-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sfml-populate"
+		],
+		"name" : "sfml-populate"
+	}
+}

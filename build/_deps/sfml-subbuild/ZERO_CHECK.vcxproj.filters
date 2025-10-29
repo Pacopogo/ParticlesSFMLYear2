@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\School 2025-2026\LowLevelDevelopment\GameOfLife\build\_deps\sfml-subbuild\CMakeFiles\216d71a533c122a147a1b0a1b10a42fa\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4C440CA7-D833-3E3E-86C7-4BA908A855D3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

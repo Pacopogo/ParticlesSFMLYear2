@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/imgui-populate"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/971fa5ed0f9015f203d1b51ccd54eb7b/imgui-populate.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/973ca4d465e197363764014978c92b94/imgui-populate-complete.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/690a9e40dd54b5c991590a05de4e674b/imgui-populate-build.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/690a9e40dd54b5c991590a05de4e674b/imgui-populate-configure.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/690a9e40dd54b5c991590a05de4e674b/imgui-populate-download.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/690a9e40dd54b5c991590a05de4e674b/imgui-populate-install.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/690a9e40dd54b5c991590a05de4e674b/imgui-populate-mkdir.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/690a9e40dd54b5c991590a05de4e674b/imgui-populate-patch.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/690a9e40dd54b5c991590a05de4e674b/imgui-populate-test.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/690a9e40dd54b5c991590a05de4e674b/imgui-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"imgui-populate"
+		],
+		"name" : "imgui-populate"
+	}
+}

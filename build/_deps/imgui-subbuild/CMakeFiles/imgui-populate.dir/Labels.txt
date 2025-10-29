@@ -1,0 +1,14 @@
+# Target labels
+ imgui-populate
+# Source files and their labels
+E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/imgui-populate
+E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/971fa5ed0f9015f203d1b51ccd54eb7b/imgui-populate.rule
+E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/973ca4d465e197363764014978c92b94/imgui-populate-complete.rule
+E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/690a9e40dd54b5c991590a05de4e674b/imgui-populate-build.rule
+E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/690a9e40dd54b5c991590a05de4e674b/imgui-populate-configure.rule
+E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/690a9e40dd54b5c991590a05de4e674b/imgui-populate-download.rule
+E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/690a9e40dd54b5c991590a05de4e674b/imgui-populate-install.rule
+E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/690a9e40dd54b5c991590a05de4e674b/imgui-populate-mkdir.rule
+E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/690a9e40dd54b5c991590a05de4e674b/imgui-populate-patch.rule
+E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/690a9e40dd54b5c991590a05de4e674b/imgui-populate-test.rule
+E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/imgui-subbuild/CMakeFiles/690a9e40dd54b5c991590a05de4e674b/imgui-populate-update.rule

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/freetype-subbuild/CMakeFiles/freetype-populate"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/freetype-subbuild/CMakeFiles/6b5c8551905ff51b375076b5c9cfe520/freetype-populate.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/freetype-subbuild/CMakeFiles/33c1f19082f7d39612a11e13b21b3f49/freetype-populate-complete.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/freetype-subbuild/CMakeFiles/6a90170e849f7d75c5b5949638e42105/freetype-populate-build.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/freetype-subbuild/CMakeFiles/6a90170e849f7d75c5b5949638e42105/freetype-populate-configure.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/freetype-subbuild/CMakeFiles/6a90170e849f7d75c5b5949638e42105/freetype-populate-download.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/freetype-subbuild/CMakeFiles/6a90170e849f7d75c5b5949638e42105/freetype-populate-install.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/freetype-subbuild/CMakeFiles/6a90170e849f7d75c5b5949638e42105/freetype-populate-mkdir.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/freetype-subbuild/CMakeFiles/6a90170e849f7d75c5b5949638e42105/freetype-populate-patch.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/freetype-subbuild/CMakeFiles/6a90170e849f7d75c5b5949638e42105/freetype-populate-test.rule"
+		},
+		{
+			"file" : "E:/School 2025-2026/LowLevelDevelopment/GameOfLife/build/_deps/freetype-subbuild/CMakeFiles/6a90170e849f7d75c5b5949638e42105/freetype-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"freetype-populate"
+		],
+		"name" : "freetype-populate"
+	}
+}
